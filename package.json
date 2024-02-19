@@ -1,6 +1,7 @@
 {
 	"name": "an-alphabet-desktop",
-	"version": "1.0.0",
+	"productName": "An Alphabet - Desktop",
+	"version": "v1.0.0",
 	"description": "An Node.JS Electron application for better alphabet conversion (like write using the cyrillic alphabet, ...)",
 	"main": "./src/main.js",
 	"scripts": {
