@@ -5,7 +5,10 @@
 	"main": "./src/main.js",
 	"scripts": {
 		"start": "electron ./src/main.js",
-		"build": "electron-builder"
+		"build-linux": "electron-builder",
+		"build-win": "electron-builder --win",
+		"build-mac": "electron-builder --mac",
+		"build": "npm run build-linux & npm run build-win & npm run build-mac"
 	},
 	"repository": {
 		"type": "git",
@@ -28,16 +31,6 @@
 				"AppImage",
 				"deb",
 				"rpm"
-			]
-		},
-		"win": {
-			"target": [
-				"squirrelWindows"
-			]
-		},
-		"mac": {
-			"target": [
-				"dmg"
 			]
 		}
 	}
