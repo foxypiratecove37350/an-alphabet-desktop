@@ -11,15 +11,15 @@ An Alphabet is a simple and user-friendly desktop application that allows you to
 
 ## Suported Alphabets
 
-| Alphabet | Support status          | Will be supported      |
-|----------|-------------------------|------------------------|
-| Latin    | :white_check_mark: Full | :white_check_mark: Yes |
-| Cyrillic | :white_check_mark: Full | :white_check_mark: Yes |
-| Greek    | :white_check_mark: Full | :white_check_mark: Yes |
-| Arabic   | :white_check_mark: Full | :white_check_mark: Yes |
-| Georgian | :white_check_mark: Full | :white_check_mark: Yes |
-| Hebrew   | :white_check_mark: Full | :white_check_mark: Yes |
-| Morse    | :warning: Only Output   | :white_check_mark: Yes |
+| Alphabet | Support status          | Will be supported               |
+|----------|-------------------------|---------------------------------|
+| Latin    | :white_check_mark: Full | :white_check_mark: Is supported |
+| Cyrillic | :white_check_mark: Full | :white_check_mark: Is supported |
+| Greek    | :white_check_mark: Full | :white_check_mark: Is supported |
+| Arabic   | :white_check_mark: Full | :white_check_mark: Is supported |
+| Georgian | :white_check_mark: Full | :white_check_mark: Is supported |
+| Hebrew   | :white_check_mark: Full | :white_check_mark: Is supported |
+| Morse    | :warning: Only Output   | :white_check_mark: Is supported |
 
 ## Installation
 
