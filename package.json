@@ -5,7 +5,7 @@
 	"main": "./src/main.js",
 	"scripts": {
 		"start": "electron ./src/main.js",
-		"build-linux": "electron-builder",
+		"build-linux": "electron-builder --linux",
 		"build-win": "electron-builder --win",
 		"build-mac": "electron-builder --mac",
 		"build": "npm run build-linux & npm run build-win & npm run build-mac"
@@ -31,7 +31,14 @@
 				"AppImage",
 				"deb",
 				"rpm"
-			]
+			],
+			"icon": "./src/res/images/icon.png"
+		},
+		"win": {
+			"icon": "./src/res/images/icon.png"
+		},
+		"mac": {
+			"icon": "./src/res/images/icon.png"
 		}
 	}
 }
