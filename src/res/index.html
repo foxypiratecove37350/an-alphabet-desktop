@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="./styles/style.css">
+		<title>An Alphabet</title>
+	</head>
+	<body>
+		<p class="warning"><b>The conversion may be innacurate, please leave a feedback on <a rel="noopener" href="https://github.com/foxypiratecove37350/an-alphabet-desktop/issues/new" target="_blank">GitHub</a> or use a translator. Diacritics not supported.</b></p>
+		<form method="post" class="conversion-form">
+			<p class="label" for="target-alphabet">Target alphabet :</p>
+			<div class="select target-alphabet">
+				<div tabindex="1" class="option selected latin">Latin</div>
+				<div tabindex="1" class="option cyrillic">Cyrillic</div>
+				<div tabindex="1" class="option greek">Greek</div>
+				<div tabindex="1" class="option arabic">Arabic</div>
+				<div tabindex="1" class="option georgian">Georgian</div>
+				<div tabindex="1" class="option hebrew">Hebrew</div>
+				<div tabindex="1" class="option morse">Morse</div>
+				<svg viewBox="0 0 100 100" class="icon">
+					<path d="M 15.832031,17.527344 A 12.5,12.5 0 0 0 6.7695312,20.59375 12.5,12.5 0 0 0 5.59375,38.230469 L 50,88.982422 94.40625,38.230469 A 12.5,12.5 0 0 0 93.230469,20.59375 12.5,12.5 0 0 0 75.59375,21.769531 L 50,51.019531 l -25.59375,-29.25 a 12.5,12.5 0 0 0 -8.574219,-4.242187 z" fill="#111"></path>
+				</svg>
+			</div>
+			<textarea name="text" id="text" placeholder="Text to convert"></textarea>
+		</form>
+		<div class="informations">To ...</div>
+		<div class="output">
+			<div class="output-text">
+				Converted text
+			
+			</div>
+			<svg viewBox="0 0 100 100" class="icon" tabindex="1">
+				<path d="M 15,25 C 9.5464971,25 5,29.546497 5,35 v 50 c 0,5.453503 4.5464971,10 10,10 h 40 c 5.453503,0 10,-4.546497 10,-10 V 80 H 55 v 5 H 15 V 35 H 30 V 25 Z" fill="#111"></path>
+				<path d="M 45,5 C 39.546492,5 35,9.5464916 35,15 v 50 c 0,5.453508 4.546492,10 10,10 h 40 c 5.453508,0 10,-4.546492 10,-10 V 15 C 95,9.5464916 90.453508,5 85,5 Z m 0,10 H 85 V 65 H 45 Z" fill="#111"></path>
+			</svg>
+		</div>
+	</body>
+</html>

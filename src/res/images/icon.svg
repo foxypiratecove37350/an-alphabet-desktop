@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg29312"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs29309" />
+  <g
+     id="layer1">
+    <path
+       id="rect2628"
+       style="fill:#f9f9f9;stroke:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:7.4;paint-order:stroke fill markers"
+       d="m 19.84375,9.921875 h 95.77917 c 5.49672,0 9.92187,4.425156 9.92187,9.921875 v 95.77917 c 0,5.49672 -4.42515,9.92187 -9.92187,9.92187 H 19.84375 c -5.496719,0 -9.921875,-4.42515 -9.921875,-9.92187 V 19.84375 c 0,-5.496719 4.425156,-9.921875 9.921875,-9.921875 z" />
+    <path
+       style="color:#000000;font-size:105.833px;font-family:'Police Sans';-inkscape-font-specification:'Police Sans';fill:#000000;stroke:none;stroke-width:8.93462;stroke-linecap:butt;stroke-miterlimit:7.4;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="m 26.458333,43.927606 v 65.080724 h 47.889583 v -1.4e-4 -14.949668 H 41.886118 V 43.927606 Z"
+       id="path966" />
+    <path
+       id="path5615"
+       style="color:#000000;-inkscape-font-specification:'Police Sans';fill:#000000;stroke:none;stroke-linecap:round;stroke-miterlimit:7.4;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="m 91.747887,19.84375 -0.146244,2.107365 c -0.678828,9.743172 -1.696295,16.885634 -2.935738,21.204907 l -0.0021,0.0083 -0.0036,0.0098 c -0.599845,2.155696 -1.301373,3.663498 -1.894458,4.456576 -0.593084,0.793079 -0.832067,0.828373 -1.115177,0.828373 -0.173915,0 -0.348418,-0.01397 -0.525549,-0.03927 -0.162197,-0.02317 -0.290308,-0.05301 -0.388607,-0.08578 l -2.980697,-0.994254 v 8.52351 l 1.25212,0.626835 c 0.646196,0.323096 1.313864,0.463595 1.99006,0.523483 0.597448,0.08636 1.198081,0.139009 1.798856,0.139009 2.910543,0 5.605417,-1.354372 7.482231,-3.667993 1.944539,-2.348093 3.237719,-5.662634 4.205428,-9.996289 v -0.0021 -0.0021 c 0.85434,-3.863105 1.498095,-8.861985 2.007638,-14.705045 h 5.23068 V 56.72832 l 9.90018,-6.7e-5 V 54.464892 19.84375 Z" />
+    <path
+       id="path5608"
+       style="color:#000000;fill:#000000;stroke:none;stroke-linecap:round;stroke-miterlimit:7.4;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="M 111.1157,62.44425 98.13096,84.933833 h 7.81038 c -0.18318,8.00348 -7.404014,14.397054 -16.34681,14.397054 h -7.186641 v 10.338903 h 7.185608 c 13.948023,0 26.506213,-10.574834 26.687773,-24.735957 h 7.81865 z" />
+  </g>
+</svg>

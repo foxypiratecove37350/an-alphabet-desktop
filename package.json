@@ -1,0 +1,21 @@
+{
+	"name": "an-alphabet-desktop",
+	"version": "1.0.0",
+	"description": "An Node.JS Electron application for better alphabet conversion (like write using the cyrillic alphabet, ...)",
+	"main": "./src/main.js",
+	"scripts": {
+		"start": "electron ./src/main.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/foxypiratecove37350/an-alphabet-desktop"
+	},
+	"author": "foxy pirate cove / Fnaf",
+	"license": "ISC",
+	"dependencies": {
+		"electron": "^28.2.3",
+		"electron-builder": "^24.9.1",
+		"fs": "^0.0.1-security",
+		"marked": "^12.0.0"
+	}
+}
