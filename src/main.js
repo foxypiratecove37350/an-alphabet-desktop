@@ -15,7 +15,7 @@ function createWindow () {
 
 	Menu.setApplicationMenu(null)
 
-	win.loadFile('./res/index.html');
+	win.loadFile(path.join(__dirname, './res/index.html'));
 }
 
 app.whenReady().then(() => {

@@ -37,7 +37,7 @@ fs.readFile(path.join(__dirname, "../../data/alphabets.mdtbl"), 'utf8', (err, da
 
 		
 
-		if (letter.toUpperCase() == letter) {
+		if (letter.toLowerCase() != letter) {
 			for (let i = 0; i < conversionsTable.length; i++) {
 				try {
 					conversionsTable[i] = conversionsTable[i].toUpperCase();
