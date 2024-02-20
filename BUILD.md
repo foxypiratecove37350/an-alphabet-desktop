@@ -26,10 +26,10 @@ In this last part, you will know how to build the project using `eletron-builder
 
 You can try one of these four commands:
 ```sh
-npm run build         # This will build for all platforms (Mac propably make an error, but don't worry it's normal)
-npm run build --linux # Build for Linux
-npm run build --win   # Build for Windows
-npm run build --mac   # Build for macOS
+npm run build       # This will build for all platforms (Mac propably make an error, but don't worry it's normal)
+npm run build-linux # Build for Linux
+npm run build-win   # Build for Windows
+npm run build-mac   # Build for macOS
 ```
 
 Now, you can check in the `/dist` directory, and you will see these interesting files:
