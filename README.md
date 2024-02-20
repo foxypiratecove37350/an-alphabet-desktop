@@ -21,6 +21,12 @@ An Alphabet is a simple and user-friendly desktop application that allows you to
 | Hebrew   | :white_check_mark: Full | :white_check_mark: Is supported |
 | Morse    | :warning: Only Output   | :white_check_mark: Is supported |
 
+## Screenshot
+
+Here is a screenshot of the application:
+
+![Screenshot](./screenshot.png)
+
 ## Installation
 
 To install An Alphabet, you can download the latest release from the [Releases](https://github.com/foxypiratecove37350/an-alphabet-desktop/releases) page, or clone this repository and run the following commands:
