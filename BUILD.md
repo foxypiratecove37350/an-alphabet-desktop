@@ -33,8 +33,8 @@ npm run build-mac   # Build for macOS
 ```
 
 Now, you can check in the `/dist` directory, and you will see these interesting files:
-- `an-alphabet-desktop.deb`, the `deb.` installer for Linux
-- `an-alphabet-desktop.AppImage`, the `AppImage.` installer for Linux
-- `an-alphabet-desktop.rpm`, the `rpm.` installer for Linux
+- `An Alphabet − Desktop-1.0.0.deb`, the `deb.` installer for Linux
+- `An Alphabet − Desktop-1.0.0.AppImage`, the `AppImage.` installer for Linux
+- `An Alphabet − Desktop-1.0.0.rpm`, the `rpm.` installer for Linux
 - `An Alphabet - Desktop Setup 1.0.0.exe`, the `.exe` installer for Windows.
-- `an-alphabet-desktop.dmg`, the `dmg.` installer for macOS
+- `An Alphabet − Desktop-1.0.0.dmg`, the `dmg.` installer for macOS
