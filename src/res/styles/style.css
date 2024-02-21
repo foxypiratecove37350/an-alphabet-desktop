@@ -195,5 +195,5 @@ div.select.active .icon {
 }
 
 .output .icon:active, .output .icon:focus {
-background: #b1b1b1;
+	background: #b1b1b1;
 }
