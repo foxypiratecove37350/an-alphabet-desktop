@@ -7,13 +7,13 @@ function createWindow () {
 		height: 600,
 		icon: path.join(__dirname, '/res/images/icon.png'),
 		webPreferences: {
-			devTools: false,
+			devTools: true, // false,
 			nodeIntegration: true,
 			preload: path.join(__dirname, "/res/javascript/conversion.js")
 		}
 	});
 
-	Menu.setApplicationMenu(null)
+	// Menu.setApplicationMenu(null)
 
 	win.loadFile(path.join(__dirname, './res/index.html'));
 }

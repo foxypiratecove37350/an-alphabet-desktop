@@ -57,21 +57,6 @@ document.addEventListener('DOMContentLoaded', () => {
 	const textarea = document.querySelector("#text");
 	const textOutput = document.querySelector('.output-text');
 	const selectDiv = document.querySelector('.select');
-
-	for (let i = 0; i < alphabets.allAlphabets.length; i++) {
-		let currentAlphabet = alphabets.allAlphabets[i];
-		let elem = document.createElement('div');
-		elem.classList.add("option");
-		if (i == 0) {
-			elem.classList.add("selected");
-		}
-		elem.classList.add(currentAlphabet);
-
-		elem.textContent = currentAlphabet.charAt(0).toUpperCase() + currentAlphabet.slice(1);
-
-		elem.parentElement = selectDiv;
-	}
-
 	const selectOptions = [...document.querySelectorAll('.select > .option:not(.selected)')];
 	const selectLabel = document.querySelector('p.label[for="target-alphabet"]');
 	const selectedTargetAlphabet = document.querySelector('.select > .option.selected');
